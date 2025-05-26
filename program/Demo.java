@@ -136,7 +136,7 @@ public class Demo {
                 }
                 
             }
-            if (count==1) {
+            if (count>=1) {
                 System.out.print(aryn1[i]+" ");
                 last=aryn1[i];
             }
